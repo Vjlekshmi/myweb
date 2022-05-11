@@ -37,7 +37,7 @@
                 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="https://media.istockphoto.com/photos/rose-background-picture-id174655938?b=1&k=20&m=174655938&s=170667a&w=0&h=xid1Zm9KIzu-g-9NYig539k_BMZgJLMXNB2NbPHPhyA=" class="d-block w-100" alt="...">
+                        <img src="..." class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
                         <img src="..." class="d-block w-100" alt="...">
@@ -48,6 +48,7 @@
                     </div>
                   </div>
             </div>
+        
         </div>
     </div>
  
